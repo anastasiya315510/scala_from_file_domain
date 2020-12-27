@@ -1,0 +1,6 @@
+com.hotspot.gg.
+com.hotspot.
+com.xyz.aaa.
+com.xyz.bbb.
+br.hotspot.5fff.
+hu.hotspot.5fff.
